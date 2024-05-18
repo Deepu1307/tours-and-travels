@@ -1,6 +1,1 @@
-views
-dev-data
-public
-natours-postman-collection.json
-/routes/viewRoutes.js
-/controllers/viewsController.js
+node_modules
